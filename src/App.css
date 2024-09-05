@@ -1,0 +1,15 @@
+.counter-text {
+    font-size: 1rem;
+}
+
+.btn-wrapper {
+    display: flex;
+    gap: 1rem;
+}
+
+.input-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+    max-width: fit-content;
+}
